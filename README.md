@@ -72,7 +72,7 @@ Over the past month, I completed a hands-on course covering real-world AI projec
 ## 📂 Want to Explore My Projects?
 
 Check out this repo and feel free to ⭐ star or fork it if you're interested!  
-> [Your GitHub Repo Link Here]
+> [https://github.com/Sangamesh-star/Projects_On_AI]
 
 ---
 
