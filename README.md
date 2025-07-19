@@ -1,4 +1,4 @@
-# 🤖 30 Days of AI – Project Portfolio
+# 🤖AI –Internship
 
 Welcome to my **30 Days of AI** journey!  
 Over the past month, I completed a hands-on course covering real-world AI projects using **Python, Machine Learning, Deep Learning, OpenCV, NLP, and more**.
