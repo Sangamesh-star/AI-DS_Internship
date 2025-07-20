@@ -69,12 +69,7 @@ Welcome to the official repository for my **3-Month Internship Program** at **Pa
 [![Projects on Data Analytics](https://img.shields.io/badge/Projects-Data%20Analytics-blue?style=for-the-badge)](#)
 [![Projects on BCI](https://img.shields.io/badge/Projects-BCI-blue?style=for-the-badge)](#)
 
-[![AI Projects](https://img.shields.io/badge/Projects-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=ai&logoColor=white)](#)
-[![ML Projects](https://img.shields.io/badge/Projects-Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
-[![DL Projects](https://img.shields.io/badge/Projects-Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white)](#)
-[![Python Projects](https://img.shields.io/badge/Projects-Python-yellow?style=for-the-badge&logo=python&logoColor=black)](#)
-[![Data Analytics Projects](https://img.shields.io/badge/Projects-Data%20Analytics-teal?style=for-the-badge&logo=chart-bar&logoColor=white)](#)
-[![BCI Projects](https://img.shields.io/badge/Projects-BCI%20(Brain--Computer%20Interface)-indigo?style=for-the-badge&logo=neovim&logoColor=white)](#)
+
 
 
 ---
