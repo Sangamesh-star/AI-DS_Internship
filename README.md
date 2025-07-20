@@ -62,6 +62,13 @@ Welcome to the official repository for my **3-Month Internship Program** at **Pa
 
 > All project folders include source code, datasets (if applicable), documentation, and output screenshots.
 
+[![Projects on Artificial Intelligence](https://img.shields.io/badge/Projects-Artificial%20Intelligence-blue?style=for-the-badge)](#)
+[![Projects on Machine Learning](https://img.shields.io/badge/Projects-Machine%20Learning-blue?style=for-the-badge)](#)
+[![Projects on Deep Learning](https://img.shields.io/badge/Projects-Deep%20Learning-blue?style=for-the-badge)](#)
+[![Projects on Python](https://img.shields.io/badge/Projects-Python-blue?style=for-the-badge)](#)
+[![Projects on Data Analytics](https://img.shields.io/badge/Projects-Data%20Analytics-blue?style=for-the-badge)](#)
+[![Projects on BCI](https://img.shields.io/badge/Projects-BCI-blue?style=for-the-badge)](#)
+
 [![AI Projects](https://img.shields.io/badge/Projects-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=ai&logoColor=white)](#)
 [![ML Projects](https://img.shields.io/badge/Projects-Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![DL Projects](https://img.shields.io/badge/Projects-Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white)](#)
