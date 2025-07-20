@@ -62,7 +62,7 @@ Welcome to the official repository for my **3-Month Internship Program** at **Pa
 
 > All project folders include source code, datasets (if applicable), documentation, and output screenshots.
 
-[![Projects on Artificial Intelligence](https://img.shields.io/badge/Projects-Artificial%20Intelligence-blue?style=for-the-badge)](#)
+[![Projects on Artificial Intelligence](https://img.shields.io/badge/Projects-Artificial%20Intelligence-blue?style=for-the-badge)](https://github.com/Sangamesh-star/Projects_On_Artificial-Intelligence)
 [![Projects on Machine Learning](https://img.shields.io/badge/Projects-Machine%20Learning-blue?style=for-the-badge)](#)
 [![Projects on Deep Learning](https://img.shields.io/badge/Projects-Deep%20Learning-blue?style=for-the-badge)](#)
 [![Projects on Python](https://img.shields.io/badge/Projects-Python-blue?style=for-the-badge)](#)
