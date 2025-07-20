@@ -1,4 +1,6 @@
-# 🎓 AI & Data Science Internship @ Pantech.AI (Jun 12 – Sep 12, 2025)
+# 🎓 AI/DS Internship @ Pantech.AI 
+
+(Jun 12 – Sep 12, 2025)
 
 Welcome to the official repository for my **3-Month Internship Program** at **Pantech.AI** – a subsidiary of Pantech Group Companies. This internship provided me with in-depth, hands-on experience across various domains in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning (DL)**, **Data Analytics**, and **Python Bootcamp**, along with an **additional specialization in Brain-Computer Interface (BCI)**.
 
@@ -60,21 +62,12 @@ Welcome to the official repository for my **3-Month Internship Program** at **Pa
 
 > All project folders include source code, datasets (if applicable), documentation, and output screenshots.
 
-- 🧠 **AI-Powered Chatbot using DialogFlow**
-- 📊 **Sales Forecasting with Time-Series ML**
-- 👁️‍🗨️ **Face Mask Detection using CNN**
-- 🧬 **BCI-based Emotion Recognition**
-- 🤖 **Handwritten Digit Recognition with MNIST**
-- 📉 **Customer Churn Analysis with Power BI**
-- 🧹 **Data Cleaning and Preprocessing Pipeline**
-- 🔍 **COVID-19 Data Analysis & Visualization**
-- 🗣️ **Text-to-Speech & NLP-based Assistant**
 
 ---
 
 ## 🌟 Highlights
 
-- ✅ 10+ Real-world Projects Completed
+- ✅ 50+ Real-world Projects Completed
 - 🧠 Exposure to BCI and its futuristic applications
 - 📈 Practical skills in model tuning, EDA, and dashboards
 - 🔗 End-to-End project building using AI/ML/DL stack
