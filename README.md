@@ -1,4 +1,4 @@
-# 🎓 AI/Data Science Internship @ Pantech.AI 
+# 🎓 AI/Data Science Internship @ [Pantech.AI](https://www.pantechsolutions.net/) 
 
 (Jun 12 – Sep 12, 2025)
 
