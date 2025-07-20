@@ -75,10 +75,10 @@ Welcome to the official repository for my **3-Month Internship Program** at **Pa
 ## 🌟 Highlights
 
 - ✅ 50+ Real-world Projects Completed
-- 🧠 Exposure to BCI and its futuristic applications
-- 📈 Practical skills in model tuning, EDA, and dashboards
-- 🔗 End-to-End project building using AI/ML/DL stack
-- 🧾 Weekly mentorship, hands-on labs & assessments
+- ✅ Exposure to BCI and its futuristic applications
+- ✅ Practical skills in model tuning, EDA, and dashboards
+- ✅ End-to-End project building using AI/ML/DL stack
+- ✅ Weekly mentorship, hands-on labs & assessments
 
 ---
 
